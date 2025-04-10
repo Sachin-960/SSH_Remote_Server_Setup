@@ -107,8 +107,5 @@ You can now SSH into your server with **either of the two keys** you created —
 ### 💡 Author
 
 Created with ❤️ by [Sachin Dayal](https://github.com/Sachin-960)
-```
-
----
 
 This is a part of [roadmap.sh](https://roadmap.sh/projects/ssh-remote-server-setup) Devops Projects.
